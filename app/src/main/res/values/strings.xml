@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MigraineAppli3(Pitié)</string>
+    <string name="intensit_de_la_migraine">Intensité de la migraine :</string>
+    <string name="choisir_date">Choisir Date</string>
+</resources>
